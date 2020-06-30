@@ -1,0 +1,27 @@
+@media only screen and (min-width: 600px) {
+    .simpleform{
+        width: 70%;
+        margin-left: 15%;
+        margin-right: 15%;
+    }
+    .simpleform button{
+        width: 60%;
+        margin-left: 20%;
+        margin-right: 20%;
+        margin-top: 15px;
+       
+    }
+  }
+  @media only screen and (max-width: 600px) {
+    .simpleform{
+        width: 98%;
+        margin-left: 1%;
+        margin-right: 1%;
+    }
+    .simpleform button{
+        width: 90%;
+        margin-left: 5%;
+        margin-right: 5%;
+        margin-top: 15px;
+    }
+  }

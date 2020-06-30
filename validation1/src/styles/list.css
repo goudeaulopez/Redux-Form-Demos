@@ -1,0 +1,24 @@
+@media only screen and (min-width: 600px) {
+   .list{
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+   }
+   .list p{
+       text-align: right;
+       color: blue;
+       font-size: 16px;
+   }
+  }
+  @media only screen and (max-width: 600px) {
+    .list{
+        width: 100%;
+   }
+   .list p{
+    text-align: right;
+    color: blue;
+    font-size: 16px;
+    padding-right: 6px;
+    padding-top: 4px;
+}
+  }

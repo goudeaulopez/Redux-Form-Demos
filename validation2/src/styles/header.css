@@ -1,0 +1,13 @@
+@media only screen and (min-width: 450px) {
+    .title{
+        padding-left: 10%;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+  }
+  @media only screen and (max-width: 450px) {
+    .title{
+        padding-top: 7px;
+        padding-bottom: 5px;
+    }
+  }

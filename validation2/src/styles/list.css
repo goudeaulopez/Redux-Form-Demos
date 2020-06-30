@@ -1,0 +1,17 @@
+@media only screen and (min-width: 500px) {
+   .list{
+     width: 100%;
+    
+   }
+   #smallcreen{
+     display: none;
+   }
+  }
+  @media only screen and (max-width: 500px) {
+    .list{
+      width: 100%
+    }
+    #gigscreen{
+      display: none;
+    }
+  }
