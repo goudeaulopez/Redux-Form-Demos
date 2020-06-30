@@ -1,4 +1,5 @@
-very straight and useful forms with validation 
+<h2>Forms validation</h2>
+Very straigh and useful forms with validation. These demos simulate the crud opreation 
 <br/>
 validation1 -> https://master.d95rwk4xc25pg.amplifyapp.com/
 <br/>
